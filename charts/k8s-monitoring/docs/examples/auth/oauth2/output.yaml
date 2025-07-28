@@ -2745,7 +2745,7 @@ kind: Alloy
 metadata:
   name: k8smon-alloy-metrics
   namespace: default
-spec: 
+spec:
   alloy:
     clustering:
       enabled: true
@@ -2936,7 +2936,7 @@ kind: Alloy
 metadata:
   name: k8smon-alloy-singleton
   namespace: default
-spec: 
+spec:
   alloy:
     clustering:
       enabled: false
@@ -3127,7 +3127,7 @@ kind: Alloy
 metadata:
   name: k8smon-alloy-logs
   namespace: default
-spec: 
+spec:
   alloy:
     clustering:
       enabled: false

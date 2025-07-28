@@ -396,7 +396,7 @@ kind: Alloy
 metadata:
   name: k8smon-alloy-singleton
   namespace: default
-spec: 
+spec:
   alloy:
     clustering:
       enabled: false

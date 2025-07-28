@@ -335,7 +335,7 @@ kind: Alloy
 metadata:
   name: k8smon-alloy-receiver
   namespace: default
-spec: 
+spec:
   alloy:
     clustering:
       enabled: false
